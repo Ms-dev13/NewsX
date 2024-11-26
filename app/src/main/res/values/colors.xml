@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3 </color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name = 'app_theme'>#009dff</color>
+    <color name = 'app_theme_light'>#fbfbff</color>
+    <color name = 'edit_text_border'>#03A9F4</color>
+    <color name = 'edit_text_background'>#f6fbff</color>
+    <color name = "Card_bg1">#edec20</color>
+    <color name = "Card_bg_2">#ed8220</color>
+    <color name = "Card_bg3">#12e981</color>
+    <color name="Card_bg4">#1258e9</color>
+    <color name="Card_bg5">#b512e9</color>
+    <color name = "Card_bg6">#e91283</color>
+    <color name="Selected_color">#8CCEE4</color>
+
+    <color name="purple">#593C8F</color>
+    <color name="yellow">#FFC000</color>
+
+
+
+</resources>
